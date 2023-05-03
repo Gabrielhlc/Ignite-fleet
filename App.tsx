@@ -7,6 +7,8 @@ import { SignIn } from './src/screens/SignIn';
 
 import { Loading } from './src/components/Loading';
 
+import { ANDROID_CLIENT_ID } from '@env';
+
 import theme from './src/theme';
 
 export default function App() {
